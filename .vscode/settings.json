@@ -1,0 +1,55 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "C:/Users/nick/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:/Users/nick/.platformio/packages/toolchain-atmelavr/bin/avr-g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:/Users/nick/.platformio/packages/toolchain-atmelavr/bin/avr-gdb.exe",
+  "C_Cpp_Runner.cStandard": "c11",
+  "C_Cpp_Runner.cppStandard": "c++11",
+  "C_Cpp_Runner.msvcBatchPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary/Build/vcvarsall.bat",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Wshadow",
+    "-Wformat=2",
+    "-Wconversion",
+    "-Wnull-dereference",
+    "-Wsign-conversion"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "C:/Users/nick/Desktop/Projects/Electronics/ATtiny84 PJON Test Project/include",
+    "C:/Users/nick/Desktop/Projects/Electronics/ATtiny84 PJON Test Project/src",
+    "C:/Users/nick/Desktop/Projects/Electronics/ATtiny84 PJON Test Project/.pio/libdeps/attiny84/PJON/src",
+    "C:/Users/nick/Desktop/Projects/Electronics/ATtiny84 PJON Test Project/.pio/libdeps/attiny84/ArduinoSTL/src",
+    "C:/Users/nick/Desktop/Projects/Electronics/ATtiny84 PJON Test Project/.pio/libdeps/attiny84/FastLED/src",
+    "C:/Users/nick/.platformio/packages/framework-arduino-avr-attiny/cores/tiny",
+    "C:/Users/nick/.platformio/packages/framework-arduino-avr-attiny/variants/tinyX4",
+    "C:/Users/nick/.platformio/packages/framework-arduino-avr-attiny/libraries/SPI",
+    "C:/Users/nick/.platformio/packages/framework-arduino-avr-attiny/libraries/SoftwareSerial",
+    "C:/Users/nick/.platformio/packages/framework-arduino-avr-attiny/libraries/ATTinyCore/src",
+    "C:/Users/nick/.platformio/packages/framework-arduino-avr-attiny/libraries/EEPROM",
+    "C:/Users/nick/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo/src",
+    "C:/Users/nick/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo_ATTinyCore/src",
+    "C:/Users/nick/.platformio/packages/framework-arduino-avr-attiny/libraries/Wire/src",
+    "C:/Users/nick/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel",
+    "C:/Users/nick/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel_Static",
+    ""
+  ],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "C_Cpp.errorSquiggles": "disabled"
+}
